@@ -89,3 +89,6 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+#theme
+remote_theme: benbalter/retlab
