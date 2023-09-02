@@ -23,7 +23,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "" #
+url: "https://svsk1ng.github.io" #
 baseurl: "s_blog"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
@@ -89,4 +89,3 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-postfiles
